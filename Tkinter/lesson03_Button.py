@@ -21,4 +21,4 @@ def btn_clicked():
 btn = tk.Button(window, text="点击我", command=btn_clicked)
 btn.pack()  # 将按钮锁定在窗口
 
-window.mainloop() # 启动窗口
+window.mainloop() # 启动窗口Test
